@@ -7,13 +7,14 @@
             "type": "al",
             "environmentType": "Sandbox",
             "environmentName": "SandCastlesInTheSand",
-            "startupObjectId": 50134,
+            "startupObjectId": 31,
             "startupObjectType": "Page",
             "breakOnError": "All",
             "launchBrowser": true,
             "enableLongRunningSqlStatements": true,
             "enableSqlInformationDebugger": true,
-            "tenant": "144b4850-95d9-4cc7-80da-1b78672af8c7"
+            "tenant": "144b4850-95d9-4cc7-80da-1b78672af8c7",
+            "schemaUpdateMode": "Recreate"
         },
         {
             "name": "snapshotInitialize: Microsoft production cloud",
